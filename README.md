@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh Rawat</h1>
 <h3 align="center">A developer and a Machine Learning Enthusiast.</h3>
 
+- 🔭 I’m currently working on **Traffic Prediction Using Graph Neural Network.**
+
 - 🌱 I’m currently learning **System design, Data Structure and Algorithm.**
 
 - 💬 Ask me about **Machine Learning Algorithms.**
@@ -9,8 +11,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vHc6I5ZROnkL1XAjOkjKxs_Fr-A1YMNm/view?usp=drive_link](https://drive.google.com/file/d/1vHc6I5ZROnkL1XAjOkjKxs_Fr-A1YMNm/view?usp=drive_link)
 
+- ⚡ Fun fact **I look forward to failures to learn from them.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-rawat-787pxn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-rawat-787pxn/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/painnagato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/painnagato" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/pain787" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pain787" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/painop787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/painop787" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/harshrawat349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harshrawat349/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
